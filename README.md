@@ -11,10 +11,10 @@
 	HKLM (LocalMachine)
 	/HKEY_LocalMachine/...
 
-## In file addBootExe.ice:
+## In file addBootExe.conf:
 	Add the path of executable application
 	this file is used to add the commmand in the Register Database
 
-## In file delBootExe.ice:
+## In file delBootExe.conf:
 	Add the path of executable application
 	this file is used to del the command in the Register Database
